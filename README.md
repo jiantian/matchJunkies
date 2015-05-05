@@ -1,5 +1,5 @@
 # matchJunkies
-A vertical search engine for soccer match statistics.
+A vertical search engine as a web application for soccer match statistics.
 
 For a demo presentation, refer to: 
 
